@@ -1,1 +1,2 @@
 problems/*.txt
+__pycache__/*
