@@ -6,7 +6,7 @@ Created on Fri Dec  1 13:20:27 2023
 """
 
 from pathlib import Path
-import regex as re
+import re
 from math import prod
 
 probfolder = Path("problems")
