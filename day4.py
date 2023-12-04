@@ -6,9 +6,7 @@ Created on Sun Dec  3 10:46:03 2023
 """
 
 from pathlib import Path
-import numpy as np
 import re
-from math import prod
 
 probfolder = Path("problems")
 
